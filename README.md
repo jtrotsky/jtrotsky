@@ -3,5 +3,5 @@
 - wrote some Go to create Vend's first payment platform
 - shrunk back into product land and haven't emerged since
 
-[!](https://github.com/egonelbre/gophers/raw/master/.thumb/icon/emoji-3x.png)
+![](https://github.com/egonelbre/gophers/raw/master/.thumb/icon/emoji-3x.png)
 credit [@egonelbre](https://github.com/egonelbre)
