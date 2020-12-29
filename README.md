@@ -1,5 +1,5 @@
 - dabbled with nix and security stuff 
-- made SDKs and reference apps to help developers with payments APIs
+- made SDKs and reference apps for payments APIs
 - wrote some Go to create Vend's first payment platform
 - shrunk back into product land and haven't emerged since
 
