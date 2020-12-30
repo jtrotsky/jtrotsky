@@ -1,6 +1,6 @@
 - :penguin: dabbled in nix and security stuff
 - :test_tube: built [some tools](https://github.com/jtrotsky/vend-image-upload), an [SDK](https://github.com/jtrotsky/govend), and a [reference app](https://github.com/vend/peg) for Vend APIs
-- :milky_way: wrote production Go to start [Vend's payments platform](https://www.vendhq.com/uk/tour/accept-payments)
+- :milky_way: wrote production Go to start [Vend's first payments platform](https://www.vendhq.com/uk/tour/accept-payments)
 - ⚛️ haxxd [this pretty website](https://jadetsp.com) in Gatsby
 - :zzz: shrunk back to product land and haven't emerged since
 
