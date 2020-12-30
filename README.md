@@ -1,6 +1,6 @@
 - :penguin: dabbled in nix and security stuff
 - :test_tube: built [SDKs](https://github.com/jtrotsky/govend) and [reference apps](https://github.com/vend/peg) for payments APIs
-- :milky_way: wrote production Go to create Vend's first payment service
+- :milky_way: wrote production Go to create [Vend's](https://vendhq.com/) first payment service
 - ⚛️ haxxd [this pretty website](https://jadetsp.com) in Gatsby
 - :zzz: shrunk back to product land and haven't emerged since
 
